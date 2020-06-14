@@ -6,5 +6,4 @@ A 24 hour AI Hackathon conducted by Accrete.AI online in 2019 to predict top 100
 
 - The dataset consists of around 4000 M&A rumors around the world, having 32 features along with credibility and realiability of rumor.
 
-- The raw dataset is provided as data.csv, along with data dictionary containing details of each feature as VariableKey.pdf. The sample.csv just contains the sample predicted output for submission.
-
+- The raw dataset is provided as Data.csv, along with data dictionary containing details of each feature as VariableKey.pdf. The complete problem statement for the hackathon is provided in ProblemStatement.pdf file.  
