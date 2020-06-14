@@ -4,7 +4,7 @@ A 24 hour AI Hackathon conducted by Accrete.AI online in 2019 to predict top 100
 
 ## Data 
 
-- The modified Indian Engineering Graduates Employability Rate dataset consists of 3000 engineers data, with each data having 36 features along with their salary.
+- The dataset consists of around 4000 M&A rumors around the world, having 32 features along with credibility and realiability of rumor.
 
-- The training and testing dataset is provided as training_data.csv and testing_data.csv, along with data dictionary containing details of each feature as data_dictionary.xlsx . The sample.csv just contains the sample predicted output for submission.
+- The raw dataset is provided as data.csv, along with data dictionary containing details of each feature as VariableKey.pdf. The sample.csv just contains the sample predicted output for submission.
 
