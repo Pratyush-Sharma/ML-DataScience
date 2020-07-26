@@ -1,6 +1,6 @@
 # DataScience Projects
 
-This repository contains self projects based on data science from different competitions involving heavy feature engineering, model building and evaluation metrics calculation.
+This repository contains self projects based on data science from different competitions, involving heavy feature engineering, model building and evaluation metrics calculation.
 
 ## Install
 These projects requires Python and the following Python libraries installed:
